@@ -2,6 +2,10 @@
 
 Este projeto é uma aplicação Streamlit que analisa arquivos PDF e gera um resumo em formato YAML. Utiliza a biblioteca CrewAI para orquestrar agentes de leitura e revisão.
 
+## Créditos
+
+O prompt inicial foi extraído de um vídeo do [Canal Sandeco no YouTube](https://www.youtube.com/@canalsandeco).
+
 ## Pré-requisitos
 
 Certifique-se de ter as seguintes ferramentas instaladas:
